@@ -37,6 +37,7 @@
 
   # Removes a file from the index
   unstage = reset HEAD --
+	po = pull origin master
 
 [help]
   autocorrect = 1
